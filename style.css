@@ -1,0 +1,109 @@
+
+
+/*
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: right;
+  background-color: blueviolet;
+  margin: 60px;
+}
+
+.alldivs {
+display: flex;
+justify-content: space-around;
+padding-left: 60%;
+margin-top: 3%;
+
+
+}
+
+.mainkrunch {
+margin-right: 10%;
+
+}
+*/
+
+body {
+  background-image: url("hero.jpeg");
+  background-color: teal;
+  height: 100%;
+  width: 100%;
+}
+.main_container {
+  margin-top: 3%;
+  background-color: teal;
+  height: 100%;
+  width: 100%;
+}
+.krunch, ul{
+  list-style-type:none;
+  display: flex;
+  margin-left: 10%;
+  
+}
+.home {
+  margin-left: 15%;
+}
+
+.about {
+  margin-left: 5%;
+}
+.portfolio {
+  margin-left: 3%;
+
+}
+
+.services {
+  margin-left: 2%;
+
+}
+
+.big_berner {
+  font-size: 58px;
+  font-family:Nunito, sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+  color: white;
+  line-height: 0.5em;
+}
+
+.paragraph_text {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  line-height: 0.5em;
+}
+
+.body_content {
+  display: flex;
+  
+}
+
+  .button {
+    margin-left: 40%;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: #4d8cf5;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.button2 {
+
+  padding: 10px 30px;
+  border-radius: 5px;
+  background-color: #4d8cf5;
+  color: #fff;
+  text-transform: uppercase;
+
+}
+
+.overlay {
+
+  background-color: teal;
+  height: 100%;
+  width: 100%;
+}
+
